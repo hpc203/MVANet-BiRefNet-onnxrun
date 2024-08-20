@@ -15,4 +15,4 @@ Rembg库里使用的通用抠图模型u2netp只有4.7M。
 
 
 它的推理代码跟MVANet的是一样的，因此本套程序也可以用做BiRefNet的推理，只需要修改onnx文件的路径即可。
-BiRefNet魔性更大，它的onnx文件有999M
+BiRefNet的onnx文件有999M，更大了
